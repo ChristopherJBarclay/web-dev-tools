@@ -1,0 +1,13 @@
+Javascript concepts taught online, not in class format (Udemy or Lynda.com), nor via youtube videos
+
+Example (Concept taught)
+  URL
+    Learning Style
+      Additional Notes
+
+
+You Don't Need jQuery
+  https://blog.garstasio.com/you-dont-need-jquery/
+    Top-Down reading style via multiple blog posts
+      This teaches budding developers how to use vanilla JS to do things that jQuery does, 
+        without the large file size of jQuery or low efficiency typically attributed to jQuery runtime
