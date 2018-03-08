@@ -10,4 +10,4 @@ You Don't Need jQuery
   https://blog.garstasio.com/you-dont-need-jquery/
     Top-Down reading style via multiple blog posts
       This teaches budding developers how to use vanilla JS to do things that jQuery does, 
-        without the large file size of jQuery or low efficiency typically attributed to jQuery runtime
+        without the large file size of jQuery or low efficiency sometimes attributed to jQuery runtime
