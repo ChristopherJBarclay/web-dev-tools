@@ -1,0 +1,22 @@
+The shorthand CSS syntax for Transition is written as follows:
+
+div {
+    transition: <property> <duration> <timing-function> <delay>;
+}
+
+
+Examples:
+
+/* set transition property, duration, delay, on the id, then set how the property changes on id:hover */
+#delay {
+  font-size: 14px;
+  transition-property: font-size;
+  transition-duration: 4s;
+  transition-delay: 2s;
+}
+
+#delay:hover {
+  font-size: 36px;
+}
+
+/* setting 
