@@ -1,4 +1,4 @@
 # Web-Dev-Tools
-A list of tools I have found to improve my web development skills. 
+Tools that I have found to improve my web development environment and skills. 
 
-Some of these tools are learning resources to gain a deeper understanding of web development. Others are production-level tools for creating excellent websites and web apps
+These tools range in content from online learning resources to production-level tools. They have helped me gain a deeper understanding of web development. 
